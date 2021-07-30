@@ -1,3 +1,3 @@
 # Stanford_ML
-Machine Learning Course 
-Stanford University.
+Machine Learning 
+Stanford University
